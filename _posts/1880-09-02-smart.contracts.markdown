@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Smart Contracts and Real Estate"
+date: June 20, 2018
+---
+
+ My hero Vitalik Buterin, the 22-year-old programmer of Ethereum, explained what a smart contract is:
+
+ "In a smart contract approach, an asset or currency is transferred into a program “and the program
+  runs this code and at some point it automatically validates a condition and it automatically determines
+  whether the asset should go to one person or back to the other person, or whether it should be immediately
+  refunded to the person who sent it or some combination thereof.”In the meantime, the decentralized ledger
+  also stores and replicates the document which gives it a certain security and immutability."
+
+ People that want more transparency and integrity in their transactions are jumping for joy. One
+ example of this is in fractional co-ownership of commercial property. Smart Contracts are used
+ to make ownership percentages of a property (like a new hotel project) transparent. When the property is
+ sold profits are distrubuted via the execution of a smart contract that pays out the profits according
+ to the percentage of investment. The contract is immutable so the investor is secure in the
+ knowledge that the contract is safe from corruption and unfair modification.
+
