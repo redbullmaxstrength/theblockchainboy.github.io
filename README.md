@@ -10,3 +10,6 @@ If you want to talk or a consult please e-mail:
 solidityboy@ gmail.com
 
 You can also create a pull request with your contact details.
+
+If you want to read about all these great ideas the url
+for the blog is: https://theblockchainboy.github.io/
