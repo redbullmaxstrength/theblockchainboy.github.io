@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://theblockchainboy.github.io/</loc>
+  <lastmod>2018-08-18T20:35:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://theblockchainboy.github.io/articles/BlockchainBoy-Statement</loc>
+  <lastmod>2018-08-18T20:35:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theblockchainboy.github.io/articles/smart.contracts</loc>
+  <lastmod>2018-08-18T20:35:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theblockchainboy.github.io/articles/consumers-iot</loc>
+  <lastmod>2018-08-18T20:35:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theblockchainboy.github.io/articles/far-less-corruption</loc>
+  <lastmod>2018-08-18T20:35:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theblockchainboy.github.io/articles/a-bzyantine-general</loc>
+  <lastmod>2018-08-18T20:35:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://theblockchainboy.github.io/articles/blockchain-document-drm</loc>
+  <lastmod>2018-08-18T20:35:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
