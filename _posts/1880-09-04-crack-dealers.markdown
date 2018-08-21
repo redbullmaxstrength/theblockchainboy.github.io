@@ -64,7 +64,7 @@ to be able to state:
 
 "No I don't want your money if there is blood on it" 
 
-There a lot of honest people working in Cryptocurrency and Blockchain **but we are all suffering
+There are a lot of honest people working in Cryptocurrency and Blockchain **but we are all suffering
 due to the overwhelming stench of scumbags**. 
 
 
