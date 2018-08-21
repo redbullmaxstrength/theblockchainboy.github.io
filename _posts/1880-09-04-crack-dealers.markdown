@@ -57,10 +57,8 @@ Right now we need:
 
 *A few acceptable laws
 
-To protect  our future and the future of the industry we need to adopt a policy of
-if you see something say something. As engineers that work with this technology we
-need to be like the scientists in Germany who **refused** to make poison gas. We need
-to be able to state:
+As engineers that work with this technology we need to be like the scientists in Germany who **refused** 
+to make poison gas. We need to be able to state:
 
 "No I don't want your money if there is blood on it" 
 
