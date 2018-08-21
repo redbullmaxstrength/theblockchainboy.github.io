@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smart Contracts and Real Estate"
-date: June 20, 2018
+date: June 20, 2017
 ---
 
  My hero Vitalik Buterin, the 22-year-old programmer of Ethereum, explained what a smart contract is:

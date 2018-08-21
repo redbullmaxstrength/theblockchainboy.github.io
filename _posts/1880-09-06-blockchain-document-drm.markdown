@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blockchain Document Protection
-date: June 19, 2013
+date: June 19, 2018
 --- 
 
 
