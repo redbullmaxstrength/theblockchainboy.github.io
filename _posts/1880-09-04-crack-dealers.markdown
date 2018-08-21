@@ -16,8 +16,8 @@ potential.  Just look at these two lists of hacks and scams:
 
 [Fake Coins](https://deadcoins.com/)
 
-We have hackers , fake coins, drugs, ICO fraud, bitconnect, bribery of governments and a massive frenzy
-of mother @%$#%$@#%  out to scam the public as fast and as hard as they can.  
+We have fake coins, drugs, ICO fraud, bitconnect, bribery of governments and a massive frenzy
+of mother @%$#%$ out to scam the public as fast and as hard as they can.  
 
 
 
