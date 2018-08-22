@@ -13,7 +13,7 @@ that interact with the Bitcoin blockchain. I created some instructions here:
 
 Enjoy,
 
-The Blochain Boy
+The Blockchain Boy
 
 
 
