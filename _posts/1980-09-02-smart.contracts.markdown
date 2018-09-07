@@ -14,9 +14,10 @@ date: June 20, 2017
 
  People that want more transparency and integrity in their transactions are jumping for joy. One
  example of this is in fractional co-ownership of commercial property. Smart Contracts are used
- to make ownership percentages of a property (like a new hotel project) transparent. When the property is
- sold profits are distrubuted via the execution of a smart contract that pays out the profits according
- to the percentage of investment. The contract is immutable so the investor is secure in the
- knowledge that the contract is safe from corruption and unfair modification. Commericial 
- real estate law is going to dramatically change, in fact I think all lawyers will be impacted
- by smart contracts.
+ to make ownership percentages of a property (like a new hotel project) transparent. Investors
+ are given asset or ownership tokens that represent how much they have invested. When the property
+ is sold profits are distrubuted via the execution of a smart contract that pays out the profits
+ according  to the percentage of investment or asset tokens owned. The contract is immutable so 
+ the investor is secure in the  knowledge that the contract is safe from corruption and unfair
+ modification. Commericial real estate law is going to dramatically change, in fact I think all
+ business oriented lawyers will be impacted by smart contracts.
