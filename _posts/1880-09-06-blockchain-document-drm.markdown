@@ -68,7 +68,8 @@ CTO says scour the internet because it had a password and we just got hacked.  C
 
 
 
-If you want more details of how this system could work please contact the Blockchain Boy.  This article has a copyright held by the Blockchain Boy.  Please do not reproduce without permission.
+If you want more details of how this system could work please contact the Blockchain Boy. I am looking at combining this with the
+InterPlanetray File System (yes that is a real thing). This article has a copyright held by the Blockchain Boy.  Please do not reproduce or leverage without written permission.
 
 
 
