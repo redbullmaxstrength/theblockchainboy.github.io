@@ -55,7 +55,7 @@ Right now we need:
 
 *Speedy resolution
 
-*Faster Transactions
+*Faster Transactions and currency stablization
 
 *A few acceptable laws
 
