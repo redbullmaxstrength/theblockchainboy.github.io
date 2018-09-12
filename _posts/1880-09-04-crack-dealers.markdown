@@ -55,6 +55,8 @@ Right now we need:
 
 *Speedy resolution
 
+*Faster Transactions
+
 *A few acceptable laws
 
 As engineers that work with this technology we need to be like the scientists in Germany who **refused** 
