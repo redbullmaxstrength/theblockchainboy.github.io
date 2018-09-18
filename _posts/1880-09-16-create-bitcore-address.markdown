@@ -11,6 +11,11 @@ that interact with the Bitcoin blockchain. I created some instructions here:
 
 [Create A Bitcoin Address](https://github.com/theblockchainboy/bitcore) 
 
+I also a fan of the linux foundation and python (plus langauge flexibility) over solidity so here is how to get started
+with hyperledger a good system for creating a private blockchain:
+
+[HyperLedger](https://github.com/theblockchainboy/awesome-hyperledger-fabric)
+
 Enjoy,
 
 The Blockchain Boy
