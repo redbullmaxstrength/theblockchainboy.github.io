@@ -13,7 +13,7 @@ that interact with the Bitcoin blockchain. I created some instructions here:
 
 [How To Create A Bitcoin Address](https://github.com/theblockchainboy/bitcore) 
 
-Soon I will post same intstructions for Hyperledger
+Soon I will post address intstructions for Hyperledger
 
 Enjoy,
 
