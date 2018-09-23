@@ -45,6 +45,8 @@ Right now we need:
 
 *Accountability
 
+*A way for the lower class to take part in this wealth creation
+
 *Governance
 
 *Clarity
