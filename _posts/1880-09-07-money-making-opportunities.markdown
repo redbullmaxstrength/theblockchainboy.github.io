@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Money Making Opportunities At a Crypto Summit
+title: Money Making Opportunities>>Crypto Summit
 date: June 18, 2016
 --- 
 
