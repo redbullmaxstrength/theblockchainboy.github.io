@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Money Making Opportunities>>Crypto Summit
+title: Money Making Opportunities
 date: June 18, 2016
 --- 
 
-Gain knowledge and confidence by joining the BlockChain Boy at Crypto Invest Summit.
+Gain knowledge and confidence that will help you make money by joining the BlockChain Boy at Crypto Invest Summit.
 
 
 Crypto Invest Summit is the largest conference and expo for ICOs, blockchain technology and cryptocurrencies on the West Coast. 
