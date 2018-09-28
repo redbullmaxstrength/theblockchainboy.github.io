@@ -20,7 +20,7 @@ Devcon 4 will not tell you that, so save your dollars for Crypto invest summit i
 learn about what is going on in the USA as well as in Europe.
 
 Join me for two fantastic days of presentations, ICO pitches, a Security Token Master Class, and insightful fireside chats
-with industry leaders. Engage with top performers and be exposed to the fantastic blockchain investment opportunities. 
+with industry leaders. Engage with top performers and be exposed to fantastic blockchain investment opportunities. 
 Attend Crypto Invest Summit October 22 to October 24 at the Los Angeles Convention Center and hear ICO pitches plus
 the latest news. I look forward to seeing you there.
 
