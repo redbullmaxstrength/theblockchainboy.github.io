@@ -59,7 +59,7 @@ As a security professional, you might notice all the improper use of the documen
 
 <u>Use Case Two:</u> In this situation, you feel the document is still valid for some people to have but you
 notice it is now on public drop boxes and usage logs show it is being access outside your organization.
-Usage logs show Sunny Sunil as the last owner of the publicly distributed document. In this case you could simply pull the allow ACL for Sunny Sunil and his version of the document will now be locked and can’t be encrypted.  When Sunny Sunil cries foul you could educate him on security issues.
+Usage logs show Sunny Sunil as the last owner of the publicly distributed document. In this case you could simply pull the allow ACL for Sunny Sunil and his version of the document will now be locked and can’t be decrypted.  When Sunny Sunil cries foul you could educate him on security issues.
                     	
 <u>Use Case Three:</u>  The DR contact list was decrypted, and is now on a mega download site in screenshot form.  You hear about this but don’t know which mega download site it is on and what other public sites are now posting it. You need to send out some take down notices to some webmasters ASAP but what webmasters?  Your saving grace is that watermark. You simply offer a bounty that is paid in crypto currency to anyone who reports the illegal use of the document and who the pirate is.  To make sure the finder’s fee is paid to legitimate people you use a platform that has ratings for the people reporting violations.
 
